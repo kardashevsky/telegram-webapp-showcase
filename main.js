@@ -7,7 +7,7 @@ if (!tg) {
 }
 tg.ready();
 
-const MESSAGE_ID = "LmaSRHTyQcfXzZgL";
+const MESSAGE_ID = "oz1ue7CcZ3mX2z8A";
 
 async function shareOnce(id) {
   return new Promise((resolve, reject) => {
